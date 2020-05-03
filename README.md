@@ -1,8 +1,8 @@
-#Demo Project README
+# Demo Project README
 
-##This is a simple readme file
+## This is a simple readme file
 
-##Modifing README FILE
+## Modifing README FILE
 
 Adding modification for to test the diff command
 
